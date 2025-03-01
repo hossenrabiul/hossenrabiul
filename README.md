@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Python+Backend+Developer+%7C+Data+Structures+%26+Algorithms+%7C+Full-Stack+Enthusiast)
+![Banner](https://www.canva.com/design/DAGgdQnVtuI/uEhq89dtYoAqI--CUqmeuQ/edit?utm_content=DAGgdQnVtuI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Hi there! 👋 I'm a passionate **Python Backend Developer** with a strong foundation in **Data Structures & Algorithms**, **Web Development**, and **Database Management**. I love building scalable, efficient, and maintainable backend systems while exploring the latest technologies.
 
