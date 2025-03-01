@@ -57,8 +57,8 @@ I'm constantly learning and improving my skills. Currently, I'm exploring:
 
 ## 📫 **Get in Touch**
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- 📧 **Email**: [your.email@example.com](mailto:robiulhossen0081@gmail.com)
+- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rabiul-hossen-8249b5297/)
 - 🌐 **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
 
 ---
