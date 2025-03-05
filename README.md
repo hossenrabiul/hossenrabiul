@@ -31,7 +31,7 @@ Hi there! 👋 I'm a passionate **Python Backend Developer** with a strong found
 
 Here are some of the projects I've worked on:
 
-1. **📂 Project 1**: [Project Name](https://github.com/yourusername/project1)  
+1. **📂 Project 1**: [Blood Donation](https://blood-project-frontend-part.vercel.app/)  
    - A brief description of the project.
    - Technologies used: Django, PostgreSQL, Tailwind CSS.
 
