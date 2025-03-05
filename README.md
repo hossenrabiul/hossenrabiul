@@ -31,11 +31,11 @@ Hi there! 👋 I'm a passionate **Python Backend Developer** with a strong found
 
 Here are some of the projects I've worked on:
 
-1. **📂 Project 1**: [Blood Donation](https://blood-project-frontend-part.vercel.app/)  
+1. **📂 Project 1**: [Blood Donation Website](https://blood-project-frontend-part.vercel.app/)  
    - A brief description of the project.
    - Technologies used: Django, PostgreSQL, Tailwind CSS.
 
-2. **📂 Project 2**: [Project Name](https://github.com/yourusername/project2)  
+2. **📂 Project 2**: [Sports Equipments E-commerce Website](https://job-placement-project-client-part-kv99.vercel.app/)  
    - A brief description of the project.
    - Technologies used: DRF, MySQL, JavaScript.
 
