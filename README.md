@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-![Banner](https://i.ibb.co.com/SXWkVKjK/cover-photo-another.png)
+![GitHub Banner](https://i.ibb.co/SXWkVKjK/cover-photo-another.png)
 
 Hi there! 👋 I'm a passionate **Python Backend Developer** with a strong foundation in **Data Structures & Algorithms**, **Web Development**, and **Database Management**. I love building scalable, efficient, and maintainable backend systems while exploring the latest technologies.
 
