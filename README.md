@@ -31,34 +31,36 @@ Hello! 👋 I’m Md. Rabiul Hossen, with a deep passion for algorithms, scalabl
 
 Here are some of the projects I've worked on:
 
-1. **📂 Project 1**: [Blood Donation Website](https://blood-project-frontend-part.vercel.app/)
+🎓 Blood Donation
 
-blood-donation
-blood-donation
-Nov 2024 - PresentNov 2024 - Present
-🔹 Find Blood Donors: Users in need of blood can search for available donors based on blood type and location.
-🔹 Register as a Donor: Individuals willing to donate blood can add their details to the donor list for easy accessibility.
-🔹 User Management: Secure authentication and user-friendly profiles allow users to manage their donation history and requests.
-🔹 Real-time Updates: The system keeps track of donor availability, ensuring up-to-date information for those in urgent need.
-🔹 Find Blood Donors: Users in need of blood can search for available donors based on blood type and location. 🔹 Register as a Donor: Individuals willing to donate blood can add their details to the donor list for easy accessibility. 🔹 User Management: Secure authentication and user-friendly profiles allow users to manage their donation history and requests. 🔹 Real-time Updates: The system keeps track of donor availability, ensuring up-to-date information for those in urgent need.
-Skills: Django REST Framework · PostgreSQL · JavaScript · HTML · Cascading Style Sheets (CSS) · Python (Programming Language)
+🚀 Key Features
+🔹✅ Find Blood Donors: Users in need of blood can search for available donors based on blood type and location.
+
+🔹✅ Register as a Donor: Individuals willing to donate blood can add their details to the donor list for easy accessibility.
+
+🔹✅ User Management: Secure authentication and user-friendly profiles allow users to manage their donation history and requests.
+
+Built with Css, Tailwind CSS, Django REST Framework, PostgreSQL, and secured with Token authentication.
+
+👉 Explore My Awesome Project : https://blood-donor-client.vercel.app/
 
 
-3. **📂 Project 2**: [Sports Equipments E-commerce Website](https://job-placement-project-client-part-kv99.vercel.app/)  
+
+
+🎓 Sports Equipments
+
+🚀 Key Features
+🔹✅ Product Listings: Users can browse a wide range of sports equipment.
+
+🔹✅ Category-Based Filtering: Easily find products by filtering based on sport type, brand, and price range.
+
+🔹✅ User-Friendly Shopping Experience: Secure authentication, wishlist functionality, and a smooth checkout process.
+
+Built with Css, Tailwind CSS, Django REST Framework, PostgreSQL, and secured with Token authentication.
+
+👉 Explore My Awesome Project : https://job-placement-project-client-part.vercel.app/
+
    
-Sports Equipments
-Sports Equipments
-Jan 2025 - PresentJan 2025 - Present
-🔹 Product Listings: Users can browse a wide range of sports equipment.
-🔹 Category-Based Filtering: Easily find products by filtering based on sport type, brand, and price range.
-🔹 User-Friendly Shopping Experience: Secure authentication, wishlist functionality, and a smooth checkout process.
-🔹 Order Management: Tracks order history, payment details, and shipping status.
-🔹 Product Listings: Users can browse a wide range of sports equipment. 🔹 Category-Based Filtering: Easily find products by filtering based on sport type, brand, and price range. 🔹 User-Friendly Shopping Experience: Secure authentication, wishlist functionality, and a smooth checkout process. 🔹 Order Management: Tracks order history, payment details, and shipping status.
-Skills: Django REST Framework · PostgreSQL · Python (Programming Language) · HTML · Cascading Style Sheets (CSS) · JavaScript
-
-
-
----
 
 ## 📚 **Learning Journey**
 
