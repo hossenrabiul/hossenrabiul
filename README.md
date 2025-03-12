@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://github.com/hossenrabiul/blood-donor-client/blob/main/cover-photo-another.png)
 
-Hi there! 👋 I'm a passionate **Python Backend Developer** with a strong foundation in **Data Structures & Algorithms**, **Web Development**, and **Database Management**. I love building scalable, efficient, and maintainable backend systems while exploring the latest technologies.
+Hello! 👋 I’m Md. Rabiul Hossen, with a deep passion for algorithms, scalable backend solutions, and building robust web applications using Python **Django**, and **Django Rest Framework**. I am also a Strong **Competitive Programmer** With a strong foundation in competitive programming, I have Solved **1200+ Problem with C, C++, Python** in deferent deferent Platform, and constantly updating my problem solving skills..
 
 ---
 
@@ -31,17 +31,32 @@ Hi there! 👋 I'm a passionate **Python Backend Developer** with a strong found
 
 Here are some of the projects I've worked on:
 
-1. **📂 Project 1**: [Blood Donation Website](https://blood-project-frontend-part.vercel.app/)  
-   - A brief description of the project.
-   - Technologies used: Django, PostgreSQL, Tailwind CSS.
+1. **📂 Project 1**: [Blood Donation Website](https://blood-project-frontend-part.vercel.app/)
 
-2. **📂 Project 2**: [Sports Equipments E-commerce Website](https://job-placement-project-client-part-kv99.vercel.app/)  
-   - A brief description of the project.
-   - Technologies used: DRF, MySQL, JavaScript.
+blood-donation
+blood-donation
+Nov 2024 - PresentNov 2024 - Present
+🔹 Find Blood Donors: Users in need of blood can search for available donors based on blood type and location.
+🔹 Register as a Donor: Individuals willing to donate blood can add their details to the donor list for easy accessibility.
+🔹 User Management: Secure authentication and user-friendly profiles allow users to manage their donation history and requests.
+🔹 Real-time Updates: The system keeps track of donor availability, ensuring up-to-date information for those in urgent need.
+🔹 Find Blood Donors: Users in need of blood can search for available donors based on blood type and location. 🔹 Register as a Donor: Individuals willing to donate blood can add their details to the donor list for easy accessibility. 🔹 User Management: Secure authentication and user-friendly profiles allow users to manage their donation history and requests. 🔹 Real-time Updates: The system keeps track of donor availability, ensuring up-to-date information for those in urgent need.
+Skills: Django REST Framework · PostgreSQL · JavaScript · HTML · Cascading Style Sheets (CSS) · Python (Programming Language)
 
-3. **📂 Project 3**: [Project Name](https://github.com/yourusername/project3)  
-   - A brief description of the project.
-   - Technologies used: Django, Tailwind CSS, PostgreSQL.
+
+3. **📂 Project 2**: [Sports Equipments E-commerce Website](https://job-placement-project-client-part-kv99.vercel.app/)  
+   
+Sports Equipments
+Sports Equipments
+Jan 2025 - PresentJan 2025 - Present
+🔹 Product Listings: Users can browse a wide range of sports equipment.
+🔹 Category-Based Filtering: Easily find products by filtering based on sport type, brand, and price range.
+🔹 User-Friendly Shopping Experience: Secure authentication, wishlist functionality, and a smooth checkout process.
+🔹 Order Management: Tracks order history, payment details, and shipping status.
+🔹 Product Listings: Users can browse a wide range of sports equipment. 🔹 Category-Based Filtering: Easily find products by filtering based on sport type, brand, and price range. 🔹 User-Friendly Shopping Experience: Secure authentication, wishlist functionality, and a smooth checkout process. 🔹 Order Management: Tracks order history, payment details, and shipping status.
+Skills: Django REST Framework · PostgreSQL · Python (Programming Language) · HTML · Cascading Style Sheets (CSS) · JavaScript
+
+
 
 ---
 
