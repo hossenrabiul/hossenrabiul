@@ -47,6 +47,9 @@ Built with Css, Tailwind CSS, Django REST Framework, PostgreSQL, and secured wit
 
 
 
+
+
+
 🎓 Sports Equipments
 
 🚀 Key Features
