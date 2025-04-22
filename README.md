@@ -81,14 +81,5 @@ I'm constantly learning and improving my skills. Currently, I'm exploring:
 - 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rabiul-hossen-8249b5297/)
 - 🌐 **Portfolio**: [My Portfolio Website](https://my-portfolio-five-zeta-21.vercel.app/)
 
----
-
-## 🎯 **Goals**
-
-- 🌍 Contribute to open-source projects.
-- 🚀 Build scalable and efficient backend systems.
-- 🤝 Collaborate with like-minded developers.
-
----
-
+- 
 ⭐️ **Feel free to explore my repositories and connect with me!** ⭐️
