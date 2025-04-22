@@ -4,30 +4,27 @@
 
 Hello! 👋 I’m Md. Rabiul Hossen, with a deep passion for algorithms, scalable backend solutions, and building robust web applications using Python **Django**, and **Django Rest Framework**. I am also a Strong **Competitive Programmer** With a strong foundation in competitive programming, I have Solved **1200+ Problem with C, C++, Python** in deferent deferent Platform, and constantly updating my problem solving skills..
 
----
 
 ## 🛠️ **Technologies & Tools**
 
 ### **Backend Development**
-- 🐍 **Languages**: Python
-- 🖥️ **Frameworks**: Django, Django REST Framework (DRF)
-- 🗃️ **Databases**: PostgreSQL, MySQL
-- 🔗 **APIs**: RESTful APIs, GraphQL (basic knowledge)
+ 🐍 **Languages**: Python
+ 🖥️ **Frameworks**: Django, Django REST Framework (DRF)
+ 🗃️ **Databases**: PostgreSQL, MySQL
+ 🔗 **APIs**: RESTful APIs, GraphQL (basic knowledge)
 
 ### **Frontend Development**
-- 🌐 **Languages**: HTML, CSS, JavaScript
-- � **Frameworks/Libraries**: Tailwind CSS
-- 🛠️ **Tools**: Webpack, npm
+ 🌐 **Languages**: HTML, CSS, JavaScript
+ � **Frameworks/Libraries**: Tailwind CSS
+ 🛠️ **Tools**: Webpack, npm
 
 ### **Other Skills**
-- 📊 **Data Structures & Algorithms**
-- 🧩 **Object-Oriented Programming (OOP)**
-- 🔄 **Version Control**: Git, GitHub
-- 🧪 **Testing**: Unit Testing, Integration Testing
+ 📊 **Data Structures & Algorithms**
+ 🧩 **Object-Oriented Programming (OOP)**
+ 🔄 **Version Control**: Git, GitHub
+ 🧪 **Testing**: Unit Testing, Integration Testing
 
----
-
-## 🌟 **Projects**
+##  **Projects**
 
 Here are some of the projects I've worked on:
 
@@ -46,10 +43,6 @@ Built with Css, Tailwind CSS, Django REST Framework, PostgreSQL, and secured wit
 
 
 
-
-
-
-
 🎓 Sports Equipments
 
 🚀 Key Features
@@ -63,23 +56,18 @@ Built with Css, Tailwind CSS, Django REST Framework, PostgreSQL, and secured wit
 
 👉 Explore My Awesome Project : https://job-placement-project-client-part.vercel.app/
 
-   
-
 ## 📚 **Learning Journey**
 
 I'm constantly learning and improving my skills. Currently, I'm exploring:
-- 🐳 Advanced Django concepts
-- 🏗️ System Design
-- 🐋 Docker and Kubernetes
-- ☁️ Cloud platforms (AWS, GCP)
-
----
+ 🐳 Advanced Django concepts
+ 🏗️ System Design
+ 🐋 Docker and Kubernetes
+ ☁️ Cloud platforms (AWS, GCP)
 
 ## 📫 **Get in Touch**
 
-- 📧 **Email**: [robiulhossen0081@gmail.com](mailto:robiulhossen0081@gmail.com)
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rabiul-hossen-8249b5297/)
-- 🌐 **Portfolio**: [My Portfolio Website](https://my-portfolio-five-zeta-21.vercel.app/)
-
-- 
-⭐️ **Feel free to explore my repositories and connect with me!** ⭐️
+ 📧 **Email**: [robiulhossen0081@gmail.com](mailto:robiulhossen0081@gmail.com)
+ 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rabiul-hossen-8249b5297/)
+ 🌐 **Portfolio**: [My Portfolio Website](https://my-portfolio-five-zeta-21.vercel.app/)
+ 
+ **Feel free to explore my repositories and connect with me!**
