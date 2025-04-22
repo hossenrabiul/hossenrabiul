@@ -5,7 +5,7 @@
 Hello! 👋 I’m Md. Rabiul Hossen, with a deep passion for algorithms, scalable backend solutions, and building robust web applications using Python **Django**, and **Django Rest Framework**. I am also a Strong **Competitive Programmer** With a strong foundation in competitive programming, I have Solved **1200+ Problem with C, C++, Python** in deferent deferent Platform, and constantly updating my problem solving skills..
 
 
-## 🛠️ **Technologies & Tools**
+##  **Technologies & Tools**
 
 ### **Backend Development**
 -  **Languages**: Python
@@ -43,6 +43,8 @@ Built with Css, Tailwind CSS, Django REST Framework, PostgreSQL, and secured wit
 
 
 
+
+
 🎓 Sports Equipments
 
 🚀 Key Features
@@ -56,7 +58,7 @@ Built with Css, Tailwind CSS, Django REST Framework, PostgreSQL, and secured wit
 
 👉 Explore My Awesome Project : https://job-placement-project-client-part.vercel.app/
 
-## 📚 **Learning Journey**
+##  **Learning Journey**
 
 I'm constantly learning and improving my skills. Currently, I'm exploring:
  - Advanced Django concepts
@@ -64,7 +66,7 @@ I'm constantly learning and improving my skills. Currently, I'm exploring:
  - Docker and Kubernetes
  - Cloud platforms (AWS, GCP)
 
-## 📫 **Get in Touch**
+##  **Get in Touch**
 
  - **Email**: [robiulhossen0081@gmail.com](mailto:robiulhossen0081@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rabiul-hossen-8249b5297/)
