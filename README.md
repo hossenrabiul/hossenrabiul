@@ -2,9 +2,10 @@
 
 ![GitHub Banner](https://github.com/hossenrabiul/blood-donor-client/blob/main/cover-photo-another.png)
 
-Hello! 👋 I’m Md. Rabiul Hossen, a passionate Full-Stack Developer focusing on the MERN Stack (MongoDB, Express.js, React, Node.js). I love building modern, scalable, and responsive web applications that solve real-world problems.
+Hello! 👋 I am Md. Rabiul Hossen, a passionate Full-Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React, Node.js).
+I love creating dynamic, scalable, and user-friendly web applications that deliver real-world impact.
 
-I also have a strong foundation in competitive programming, having solved 1200+ problems using C, C++, and Python on different platforms — which continuously sharpens my logic and problem-solving abilities.
+Alongside web development, I am also a competitive programmer with a strong problem-solving mindset — having solved 1200+ problems using C, C++, and Python on various platforms.
 
 
 🧰 Technologies & Tools
@@ -65,7 +66,7 @@ I’m continuously learning and expanding my skill set. Currently exploring:
 📬 Get in Touch
 
  - Email: robiulhossen0081@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rabiul-hossen-8249b5297/)
- - **Portfolio**: [My Portfolio Website](https://my-portfolio-five-zeta-21.vercel.app/)
+ - [My Linkedin ](https://www.linkedin.com/in/rabiul-hossen-8249b5297/)
+ - [My Portfolio ](https://my-portfolio-five-zeta-21.vercel.app/)
  
- **Feel free to explore my repositories and connect with me!**
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🌱
