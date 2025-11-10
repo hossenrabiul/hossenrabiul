@@ -2,73 +2,69 @@
 
 ![GitHub Banner](https://github.com/hossenrabiul/blood-donor-client/blob/main/cover-photo-another.png)
 
-Hello! 👋 I’m Md. Rabiul Hossen, with a deep passion for algorithms, scalable backend solutions, and building robust web applications using Python **Django**, and **Django Rest Framework**. I am also a Strong **Competitive Programmer** With a strong foundation in competitive programming, I have Solved **1200+ Problem with C, C++, Python** in deferent deferent Platform, and constantly updating my problem solving skills..
+Hello! 👋 I’m Md. Rabiul Hossen, a passionate Full-Stack Developer focusing on the MERN Stack (MongoDB, Express.js, React, Node.js). I love building modern, scalable, and responsive web applications that solve real-world problems.
+
+I also have a strong foundation in competitive programming, having solved 1200+ problems using C, C++, and Python on different platforms — which continuously sharpens my logic and problem-solving abilities.
 
 
-##  **Technologies & Tools**
+🧰 Technologies & Tools
 
-### **Backend Development**
--  **Languages**: Python
--  **Frameworks**: Django, Django REST Framework (DRF)
--  **Databases**: PostgreSQL, MySQL
--  **APIs**: RESTful APIs, GraphQL (basic knowledge)
+🖥️ Frontend Development
+-  Languages: HTML, CSS, JavaScript, JSX
+-  Libraries/Frameworks: React.js, Tailwind CSS
+- tate Management: Context API, Redux (basic)
+-  Tools: npm,nvm, Vite, Webpack
+-  
+⚙️ Backend Development
+ - Languages: JavaScript, TypeScript (basic)
+ - *rameworks: Node.js, Express.js
+ - Databases: MongoDB, Mongoose
+ - APIs: RESTful APIs, JWT Authentication
+   
+🧠 Other Skills
+ - Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+ - Version Control: Git, GitHub
+- Testing: Postman, Jest (basic)
 
-### **Frontend Development**
- - **Languages**: HTML, CSS, JavaScript
- - **Frameworks/Libraries**: Tailwind CSS
- - **Tools**: Webpack, npm
-
-### **Other Skills**
- - **Data Structures & Algorithms**
-- **Object-Oriented Programming (OOP)**
- - **Version Control**: Git, GitHub
-- **Testing**: Unit Testing, Integration Testing
-
-##  **Projects**
+💡 Projects
 
 Here are some of the projects I've worked on:
 
-🎓 Blood Donation
+🎓 Blood Donation Platform
 
 🚀 Key Features
-🔹✅ Find Blood Donors: Users in need of blood can search for available donors based on blood type and location.
+🔹Find Blood Donors: Search donors by blood type and location.
+🔹Register as a Donor: Users can sign up and add their information.
+🔹User Management: Authentication, profile management, and donation history.
 
-🔹✅ Register as a Donor: Individuals willing to donate blood can add their details to the donor list for easy accessibility.
-
-🔹✅ User Management: Secure authentication and user-friendly profiles allow users to manage their donation history and requests.
-
-Built with Css, Tailwind CSS, Django REST Framework, PostgreSQL, and secured with Token authentication.
+Built with: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT Authentication.
 
 👉 Explore My Awesome Project : https://blood-donor-client.vercel.app/
 
 
-
-
-
-🎓 Sports Equipments
+🎯 Sports Equipment Store
 
 🚀 Key Features
-🔹✅ Product Listings: Users can browse a wide range of sports equipment.
+🔹 Product Listings: Browse a wide range of sports equipment.
+🔹 Category-Based Filtering: Filter by sport type, brand, and price.
+🔹 Smooth Shopping Experience: Authentication, wishlist, and checkout.
 
-🔹✅ Category-Based Filtering: Easily find products by filtering based on sport type, brand, and price range.
-
-🔹✅ User-Friendly Shopping Experience: Secure authentication, wishlist functionality, and a smooth checkout process.
-
-Built with Css, Tailwind CSS, Django REST Framework, PostgreSQL, and secured with Token authentication.
+Built with: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT Authentication.
 
 👉 Explore My Awesome Project : https://job-placement-project-client-part.vercel.app/
 
-##  **Learning Journey**
+📚 Learning Journey
 
-I'm constantly learning and improving my skills. Currently, I'm exploring:
- - Advanced Django concepts
- - System Design
- - Docker and Kubernetes
- - Cloud platforms (AWS, GCP)
+I’m continuously learning and expanding my skill set. Currently exploring:
+ -Advanced React patterns (Hooks, Context, Redux Toolkit)
+ - API Security & Authentication (JWT, OAuth)
+ - Deployment & CI/CD (Vercel, Render, Netlify)
+ - Cloud & DevOps (Docker, AWS basics)
 
-##  **Get in Touch**
+📬 Get in Touch
 
- - **Email**: [robiulhossen0081@gmail.com](mailto:robiulhossen0081@gmail.com)
+ - Email: robiulhossen0081@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rabiul-hossen-8249b5297/)
  - **Portfolio**: [My Portfolio Website](https://my-portfolio-five-zeta-21.vercel.app/)
  
